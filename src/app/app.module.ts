@@ -10,6 +10,7 @@ import { RodapeComponent } from './rodape/rodape.component';
 import { AppRoutingModule } from './app-routing/app-routing.module';
 import { RouterModule } from '@angular/router';
 import { NavComponent } from './nav/nav.component';
+import { MenuComponent } from './menu/menu.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { NavComponent } from './nav/nav.component';
     MuralVagasComponent,
     CadastroVagasComponent,
     RodapeComponent,
-    NavComponent
+    NavComponent,
+    MenuComponent
   ],
   imports: [
     BrowserModule,

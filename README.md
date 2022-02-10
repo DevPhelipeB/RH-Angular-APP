@@ -1,4 +1,12 @@
-# RhAngular
+# RH Angular
+
+⚠ Neste projeto o foco foi desenvolver uma aplicação em Back-End, para que as **vagas** abordadas no sistema da aplicação suportassem ser manipuladas através da sua **ID**, com base nos padrões de requisições API Rest atuais GET, POST, DELETE, UPDATE.
+
+- Dropdown Listar Vaga > Manipular Vagas
+- No campo foto adicione alguma dessas opções: tecnologia.png, tecnologia2.jpeg, tecnologia3.jpg
+- versão 1.0
+# Step By Project :
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
 

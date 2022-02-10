@@ -1,0 +1,22 @@
+.listar-vagas{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+}
+
+.listar-vagas .card{
+    margin: 10px 30px;
+    
+}
+
+
+.listar-vagas .card img{
+    height: 280px;
+    width: 285px;
+    display: flex;
+    flex-direction: row;
+}
+

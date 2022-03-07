@@ -5,6 +5,11 @@
 - Dropdown Listar Vaga > Manipular Vagas
 - No campo foto adicione alguma dessas opções: tecnologia.png, tecnologia2.jpeg, tecnologia3.jpg
 - versão 1.0
+
+# 🎞 Facilitando pra você 
+Visualize meu projeto em um vídeo postado com suas funcionalidades apresentadas. Só clicar na badge.
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/tdS3iHhXCBA)
 # Step By Project :
 
 
